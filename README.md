@@ -6,8 +6,6 @@ Implementation of Huffman coding for data compression, studying both theoretical
 
 - `huffman_report.pdf` - Comprehensive 10-page report analyzing Huffman coding for message compression
 - `huffman_code.py` - Python implementation of the Huffman coding algorithm
-- `latex/` - LaTeX source files for the report
-- `report_text.md` - Draft text content for the report
 
 ## Key Features
 
